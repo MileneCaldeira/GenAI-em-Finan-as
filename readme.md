@@ -156,17 +156,16 @@ Clique em **"Generate"** no painel de Audio Overview para criar um podcast autom
 
 ```
 genai-financas-notebooklm/
-│
-├── README.md                    ← Documentação completa (você está aqui)
-│
-├── fontes/
-│   └── links-verificados.md     ← Todos os links com status de acesso
-│
-├── insights/
-│   └── perguntas-e-respostas.md ← Perguntas feitas e insights gerados
-│
-└── assets/
-    └── screenshot-notebook.png  ← Print do notebook
+├── README.md
+├── CHANGELOG.md              
+├── guia-notebooklm.html
+├── apresentacao.html        
+└── insights/
+    ├── perguntas-e-respostas.md
+    ├── estudo-de-caso.md
+    ├── glossario.md
+    ├── mapa-de-conceitos.md
+    └── reflexao-aprendizado.md  ← novo
 ```
 
 ---
