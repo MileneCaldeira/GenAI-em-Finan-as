@@ -167,7 +167,7 @@ genai-financas-notebooklm/
     ├── estudo-de-caso.md
     ├── glossario.md
     ├── mapa-de-conceitos.md
-    └── reflexao-aprendizado.md  ← novo
+    └── reflexao-aprendizado.md
 ```
 
 ---
