@@ -160,7 +160,6 @@ genai-financas-notebooklm/
 ├── fontes/
      ├── links
 ├── CHANGELOG.md              
-├── guia-notebooklm.html
 ├── apresentacao.html        
 └── insights/
     ├── perguntas-e-respostas.md
