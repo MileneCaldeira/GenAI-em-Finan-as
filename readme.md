@@ -157,6 +157,7 @@ Clique em **"Generate"** no painel de Audio Overview para criar um podcast autom
 ```
 genai-financas-notebooklm/
 ├── README.md
+├── fontes/
 ├── CHANGELOG.md              
 ├── guia-notebooklm.html
 ├── apresentacao.html        
